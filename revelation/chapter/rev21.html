@@ -52,14 +52,12 @@
         a.ref-david:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
         a.ref-wisdom:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
         a.ref-wisdom:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-pseudepigrapha:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-pseudepigrapha:visited {color:#0000e6;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-combination:link {color:#000000;text-decoration:none;<!--display:none-->}
-        a.ref-combination:visited {color:#000000;text-decoration:none;!--display:none-->}
-        a.xref:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.xref:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-apocrypha:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;display:none}
+        a.ref-apocrypha:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;display:none}
+        a.ref-pseudepigrapha:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;display:none}
+        a.ref-pseudepigrapha:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;display:none}
+        a.xref:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right}
+        a.xref:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right}
       
         </style>
         <meta name="keywords" content="Revelation, Digital Humanities, intertextuality"></meta>
@@ -68,10 +66,13 @@
     </head>
     <body>
         <div id="Headings" style="background-color:#f8f8f8;float:left;text-align:justify;line-height:7x">
-            <table style="width:550px;font-size:9px;font:Times">
+            <table style="width:450px;font-size:9px;font:Times">
                 <tr>
-                    <th style="width:100px;background-color:#ef8f8f8">Internal Ref.</th>
-                    <th style="width:300px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
+                    <th style="width:75px;background-color:#ef8f8f8">
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev21.html">Revelation</option><!--chapter changes-->
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/apot/rev21.html">Apoc. and Pseud.</option>
+                    </th>
+                    <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev01.html">Revelation 1</option><!--chapter changes-->
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev02.html">Revelation 2</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev03.html">Revelation 3</option>
@@ -96,7 +97,7 @@
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev22.html">Revelation 22</option>
                     </select>
                     </th>
-                    <th style="width:150px;background-color:#f8f8f8">
+                    <th style="width:100px;background-color:#f8f8f8">
                         <select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev18.html">Allusions</option>
                             <option value="http://encodingrevelation.github.io/revelation\Isolated/Rev 1,12-20_PentateuchIsolated.html">Moses</option><!--all classes of reference are disabled accept those with body-moses and ref-moses; color set to #000000 for all other references-->
@@ -118,19 +119,19 @@
             </table>
         </div>
         <div id="SBLGNT" style="background-color:#f8f8f8;float:left;text-align:justify;line-height:9px">
-            <table  style="width:550px;font:Times New Roman;positionl;left:5px">
+            <table  style="width:475px;font:Times New Roman;positionl;left:5px">
                 <tr>
-                    <th style="width:100px;background-color:#f8f8f8;font-size:7px"></th>
+                    <th style="width:75px;background-color:#f8f8f8;font-size:7px"></th>
                     <th style="width:300px;background-color:#f8f8f8;font-size:9px:></th>
-                    <th style="width:150px;background-color:#f8f8f8"></th>    
+                    <th style="width:100px;background-color:#f8f8f8"></th>    
                 </tr>
                 <tr>
-                    <!--x-ref--><td><font style="font-size:7px">1Hen9 1:16 2Bar 32:6</font> </td>
+                    <!--x-ref--><td><a class="ref-pseudepigrapha" href="http://encodingrevelation.github.io/revelation/pseudepigrapha/reference/1hen91,16.html" "target_allusion">1Hen 91:16</a> <a class="ref-pseudepigrapha" href="http://encodingrevelation.github.io/revelation/pseudepigrapha/reference/2bar32,06.html" "target_allusion">2Bar 32:6</font> </td>
 <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 21:1 Καὶ εἶδον <b>οὐρανὸν καινὸν καὶ γῆν καινήν</b>· ὁ γὰρ </td>
-                    <!--allusion--><td><font style="font-size:7px">1Hen9 1:16 2Bar 32:6 4Esr7:75</font></td>
+                    <!--allusion--><td><font style="font-size:7px">1Hen9 1:16 2Bar 32:6 </font></td>
 </tr>
 <tr>
-<!--x-ref--><td></td>
+    <!--x-ref--><td><a class="ref-pseudepigrapha" href="http://encodingrevelation.github.io/revelation/pseudepigrapha/reference/4esr07,75.html" "target_allusion">4Esr 7:75</td>
 <!--body--><td>πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, καὶ ἡ θάλασσα </td>
     <!--allusion--><td></td>
 </tr>
