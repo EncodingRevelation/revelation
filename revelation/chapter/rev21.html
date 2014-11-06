@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <style>
-        body {background-color:#f8f8f8;font-size:9px}
+        body {background-color:#f8f8f8}
         a.body:link {color:e60000;text-decoration:none} 
         a.body:visited {color:#e60000;text-decoration:none}
         a.body-named:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
@@ -52,13 +52,15 @@
         a.ref-david:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
         a.ref-wisdom:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
         a.ref-wisdom:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->}
-        a.ref-apocrypha:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->}
-        a.ref-pseudepigrapha:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->}
-        a.ref-pseudepigrapha:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->-->}
-        a.xref:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right}
-        a.xref:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right}
-      
+        a.ref-apocrypha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-apocrypha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-combination:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-combination:visited {color:#000000;text-decoration:none;!--display:none-->}
+        a.xref:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.xref:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        
         </style>
         <meta name="keywords" content="Revelation, Digital Humanities, intertextuality"></meta>
         <meta name="author" content="C. Thomas Fraatz"></meta>
@@ -66,12 +68,9 @@
     </head>
     <body>
         <div id="Headings" style="background-color:#f8f8f8;float:left;text-align:justify;line-height:7x">
-            <table style="width:450px;font-size:9px;font:Times">
+            <table style="width:400px;font-size:9px;font:Times">
                 <tr>
-                    <th style="width:75px;background-color:#ef8f8f8"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev21.html">Parallels</option>parallels
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/apot/rev21.html">Apoc. and Pseud.</option>
-                    </th>
+                    <th style="width:75px;background-color:#ef8f8f8">Internal Ref.</th>
                     <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev01.html">Revelation 1</option><!--chapter changes-->
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev02.html">Revelation 2</option>
@@ -89,16 +88,16 @@
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev14.html">Revelation 14</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev15.html">Revelation 15</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev16.html">Revelation 16</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev17.html" >Revelation 17</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev18.html">Revelation 18</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev17.html">Revelation 17</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev18.html" selected="selected">Revelation 18</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev19.html">Revelation 19</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev20.html">Revelation 20</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev21.html" selected="selected">Revelation 21</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev21.html">Revelation 21</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev22.html">Revelation 22</option>
                     </select>
                     </th>
                     <th style="width:100px;background-color:#f8f8f8">
-                        <select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
+                        <select style="font-size:8px;color:e60000" name= class="styled" onChange="document.location = this.value" value="GO">
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/rev18.html">Allusions</option>
                             <option value="http://encodingrevelation.github.io/revelation\Isolated/Rev 1,12-20_PentateuchIsolated.html">Moses</option><!--all classes of reference are disabled accept those with body-moses and ref-moses; color set to #000000 for all other references-->
                             <option value="http://encodingrevelation.github.io/revelation\Isolated/Rev 1,12-20_FormerIsolated.html">Former</option><
@@ -118,12 +117,12 @@
                 </tr>
             </table>
         </div>
-        <div id="SBLGNT" style="background-color:#f8f8f8;float:left;line-height:9px">
-            <table  style="width:450px;font:Times New Roman;positionl;left:5px">
+        <div id="body" style="background-color:#f8f8f8;float:left;text-align:justify;line-height:7x;overflow:auto;height:600px">
+            <table style="width:400px;font-size:9px;font:Times;">
                 <tr>
-                    <th style="width:75px;background-color:#f8f8f8;font-size:7px"></th>
-                    <th style="width:275px;background-color:#f8f8f8;font-size:9px:></th>
-                    <th style="width:100px;background-color:#f8f8f8"></th>    
+                    <th style="width:75px;background-color:#f8f8f8"></th>
+                    <th style="width:275px;background-color:#f8f8f8"></th>
+                    <th style="width:100px;background-color:#f8f8f8"></th>
                 </tr>
                 <tr>
                     <!--x-ref--><td><a class="ref-pseudepigrapha" href="http://encodingrevelation.github.io/revelation/pseudepigrapha/reference/1hen91,16.html" "target_allusion">1Hen 91:16</a> <a class="ref-pseudepigrapha" href="http://encodingrevelation.github.io/revelation/pseudepigrapha/reference/2bar32,06.html" "target_allusion">2Bar 32:6</font> </td>
