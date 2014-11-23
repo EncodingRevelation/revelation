@@ -1,80 +1,75 @@
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
         <style>
         body {background-color:#f8f8f8}
-        a.body:link {color:000000;text-decoration:none} 
-        a.body:visited {color:#a10000;text-decoration:none}
-        a.body-named:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-named:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-moses:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-moses:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}	
-        a.body-former:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-former:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-isaiah:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-isaiah:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body:link {color:e60000;text-decoration:none} 
+        a.body:visited {color:#e60000;text-decoration:none}
+        a.body-named:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-named:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-moses:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-moses:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}	
+        a.body-former:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-former:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-isaiah:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-isaiah:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-jeremiah:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-jeremiah:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        a.body-ezekiel:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-ezekiel:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-daniel:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-daniel:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-minor:link {color:#a10000;text-decoration:none;;pointer-events:none;cursor:default}
-        a.body-minor:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-david:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-david:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-wisdom:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-wisdom:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-apocrypha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-apocrypha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        #quotation:link{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        #allusion:link{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        #theme:link{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        #combination:link{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->} 
-         #quotation:visited{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}  
-        #allusion:visited{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        #theme:visited{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        #combination:visited{<!--color:#000000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}         
-        a.variant:link{color:#a10000;text-decoration:none}
-        a.variant:visited{color:#a10000;text-decoration:none}
+        a.body-ezekiel:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-ezekiel:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-daniel:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-daniel:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-minor:link {color:#e60000;text-decoration:none;;<!--pointer-events:none;cursor:default-->}
+        a.body-minor:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-david:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-david:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-wisdom:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-wisdom:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        a.body-apocrypha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-apocrypha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.variant:link{color:#000000;text-decoration:none}
+        a.variant:visited{color:#000000;text-decoration:none}
+        #quotation{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        #allusion{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        #theme{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
+        #combination{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->} 
             
             
             
-        a.ref:link {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref:visited {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref-named:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-named:visited {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-moses:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-moses:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}	
-        a.ref-former:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-former:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-apocrypha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-combination:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-combination:visited {color:#a10000;text-decoration:none;!--display:none-->}
-        a.xref:link {color:#00000e6;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.xref:visited {color:#0000e6;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.xref-parallel:link {color:#00e600;text-decoration:none;font-size:7px;isplay:none}
+        a.ref:link {color:#000000;text-decoration:none;font-size:7px}
+        a.ref:visited {color:#000000;text-decoration:none;font-size:7px}
+        a.ref-named:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-named:visited {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-moses:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-moses:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}	
+        a.ref-former:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-former:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+             a.ref-isaiah:selected {color:#00e600;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-apocrypha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-apocrypha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-combination:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-combination:visited {color:#000000;text-decoration:none;!--display:none-->}
+        a.xref:link {color:#0000a1;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.xref:visited {color:#0000a1;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.xref-parallel:link {color:#00e600;text-decoration:none;font-size:7px;display:none}
         a.xref-parallel:visited {color:#00e600;text-decoration:none;font-size:7px;display:none}
-        
         </style>
         <meta name="keywords" content="Revelation, Digital Humanities, intertextuality"></meta>
         <meta name="author" content="C. Thomas Fraatz"></meta>
@@ -84,12 +79,12 @@
        <div id="Headings" style="background-color:#f8f8f8;float:left;text-align:justify;line-height:7x">
         <table style="width:400px;font-size:9px;font:Times">
             <tr>
-                <th style="width:75px;background-color:#f8f8f8;text-align:right"><select style="font-size:8px;color:000000" name= class="styled" onChange="document.location = this.value" value="GO">
+                <th style="width:75px;background-color:#f8f8f8;text-align:right"><select style="font-size:8px;color:0000a1" name= class="styled" onChange="document.location = this.value" value="GO">
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Internal links</option>
-                    <option style="color:00e600" value="http://encodingrevelation.github.io/revelation/isolated/ap18-parallel.html" selected="selected">Parallel texts</option>
+                    <option value="http://encodingrevelation.github.io/revelation/revelation/isolated/ap18-parallel.html">Parallel texts</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Reset</option>
                 </select>
-                <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
+                <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:9px" name= class="styled" onChange="document.location = this.value" value="GO">
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html">Revelation 1</option><!--chapter changes-->
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap02.html">Revelation 2</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap03.html">Revelation 3</option>
@@ -107,7 +102,7 @@
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap15.html">Revelation 15</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap16.html">Revelation 16</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Revelation 17</option>
-                    <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html" >Revelation 18</option>
+                    <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html" selected="selected">Revelation 18</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap19.html">Revelation 19</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap20.html">Revelation 20</option>
                     <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap21.html">Revelation 21</option>
@@ -115,8 +110,8 @@
                 </select>
                 </th>
                     <th style="width:100px;background-color:#f8f8f8">
-                        <select style="font-size:8px;color:0000000" name= class="styled" onChange="document.location = this.value" value="GO">
-                            <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">All References</option>
+                        <select style="font-size:8px;color:a10000" name= class="styled" onChange="document.location = this.value" value="GO">
+                            <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap178.html">All References</option>
                             <!--<option value="http://encodingrevelation.github.io/revelation/revelation/isolated/quotation/ap18-quotation.html">Quotation</option>
                             <option value="http://encodingrevelation.github.io/revelation/revelation/isolated/allusion/ap18-allusion.html">Allusion</option>
                             <option value="http://encodingrevelation.github.io/revelation/revelation/isolated/theme/ap18-theme.html">Theme</option>-->
@@ -126,7 +121,7 @@
                         </select>
                     </th>
              </tr>   
-          <tr>
+            <tr>
                 <!--x-ref--><td></td>
                 <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 18:1 Μετὰ ταῦτα εἶδον ἄλλον ἄγγελον καταβαίνοντα ἐκ </td>
                 <!--allusion--><td></td>
@@ -492,8 +487,8 @@
 </tr>
             <tr>
                 <th style="width:75px;background-color:#f8f8f8;text-align:right"><select style="font-size:8px;color:e60000" name= class="styled" onChange="document.location = this.value" value="GO">
-                    <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Revelation</option>
-                    <!--<option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Parallel texts</option>--></select></th>
+                    <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Revelation</option>
+                    <option value="http://encodingrevelation.github.io/revelation/revelation/isolated/ap18-parallel.html">Parallel texts</option></select>
                     <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html">Revelation 1</option><!--chapter changes-->
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap02.html">Revelation 2</option>

@@ -25,43 +25,43 @@
         a.body-david:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-wisdom:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-wisdom:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        a.body-apocrypha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-apocrypha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-apocrypha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-apocrypha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
         #quotation{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #allusion{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #theme{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #combination{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->} 
                   
-        a.ref:link {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref:visited {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref-named:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-named:visited {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-moses:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-moses:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}	
-        a.ref-former:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-former:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-apocrypha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-combination:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-combination:visited {color:#a10000;text-decoration:none;!--display:none-->}
+        a.ref:link {color:#000000;text-decoration:none;font-size:7px}
+        a.ref:visited {color:#000000;text-decoration:none;font-size:7px}
+        a.ref-named:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-named:visited {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-moses:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-moses:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}	
+        a.ref-former:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-former:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-apocrypha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-apocrypha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-combination:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-combination:visited {color:#000000;text-decoration:none;!--display:none-->}
         a.xref:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->}
         a.xref:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;!--display:none-->}
         
@@ -92,12 +92,12 @@
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap11.html">Revelation 11</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap12.html">Revelation 12</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap13.html">Revelation 13</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap14.html">Revelation 14</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap14.html" selected="selected">Revelation 14</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap15.html">Revelation 15</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap16.html">Revelation 16</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html" >Revelation 17</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Revelation 18</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap19.html" selected="selected">Revelation 19</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap19.html">Revelation 19</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap20.html">Revelation 20</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap21.html">Revelation 21</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap22.html">Revelation 22</option>
@@ -112,310 +112,325 @@
                                 <!-- <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Combination</option>-->
                     </th>
                 </tr>
-                <tr>
+                
+            <tr>
 <!--x-ref--><td></td>
-<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 19:1 Μετὰ ταῦτα ἤκουσα ὡς φωνὴν μεγάλην ὄχλου </td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 14:1 Καὶ εἶδον, καὶ ἰδοὺ τὸ Ἀρνίον ἑστὸς ἐπὶ τὸ ὄρος </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>πολλοῦ ἐν τῷ οὐρανῷ λεγόντων Ἁλληλουϊά· ἡ σωτηρία καὶ ἡ </td>
+<!--body--><td>Σιών, καὶ μετ’ αὐτοῦ ἑκατὸν τεσσεράκοντα τέσσαρες </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>δόξα καὶ ἡ δύναμις τοῦ Θεοῦ ἡμῶν, 2 ὅτι <b>ἀληθιναὶ</b> καὶ </td>
+<!--body--><td>χιλιάδες ἔχουσαι τὸ ὄνομα αὐτοῦ καὶ τὸ ὄνομα τοῦ Πατρὸς </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>δίκαιαι αἱ κρίσεις αὐτοῦ</b>· ὅτι ἔκρινεν τὴν πόρνην τὴν </td>
+<!--body--><td>αὐτοῦ γεγραμμένον <b>ἐπὶ τῶν μετώπων</b> αὐτῶν. 2 καὶ ἤκουσα </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>μεγάλην ἥτις ἔφθειρεν τὴν γῆν ἐν τῇ πορνείᾳ αὐτῆς, καὶ </td>
+<!--body--><td>φωνὴν ἐκ τοῦ οὐρανοῦ <b>ὡς φωνὴν ὑδάτων πολλῶν</b> καὶ ὡς </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>ἐξεδίκησεν τὸ αἷμα τῶν δούλων</b> αὐτοῦ <b>ἐκ χειρὸς</b> αὐτῆς. 3 </td>
+<!--body--><td>φωνὴν βροντῆς μεγάλης, καὶ ἡ φωνὴ ἣν ἤκουσα ὡς </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>καὶ δεύτερον εἴρηκαν <b>Ἁλληλουϊά· καὶ ὁ καπνὸς αὐτῆς </b></td>
+<!--body--><td>κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις αὐτῶν. 3 καὶ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>ἀναβαίνει εἰς τοὺς αἰῶνας</b> τῶν αἰώνων. 4 καὶ ἔπεσαν οἱ </td>
+<!--body--><td><b>ᾄδουσιν ᾠδὴν καινὴν</b> ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τῶν </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>πρεσβύτεροι οἱ εἴκοσι τέσσαρες καὶ τὰ τέσσερα ζῷα, καὶ </td>
+<!--body--><td>τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων· καὶ οὐδεὶς ἐδύνατο </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>προσεκύνησαν τῷ Θεῷ τῷ <b>καθημένῳ ἐπὶ τῷ θρόνῳ </td>
+<!--body--><td>μαθεῖν τὴν ᾠδὴν εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>χιλιάδες, οἱ ἠγορασμένοι ἀπὸ τῆς γῆς. 4 οὗτοί εἰσιν οἳ μετὰ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>γυναικῶν οὐκ ἐμολύνθησαν· παρθένοι γάρ εἰσιν. οὗτοι οἱ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>ἀκολουθοῦντες τῷ Ἀρνίῳ ὅπου ἂν ὑπάγῃ· οὗτοι </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>ἠγοράσθησαν ἀπὸ τῶν ἀνθρώπων ἀπαρχὴ τῷ Θεῷ καὶ τῷ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>Ἀρνίῳ, 5 καὶ <b>ἐν τῷ στόματι</b> αὐτῶν <b>οὐχ εὑρέθη ψεῦδος</b>· </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>ἄμωμοί εἰσιν.</td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 6 Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>γλῶσσαν καὶ λαόν, 7 λέγων ἐν φωνῇ μεγάλῃ· Φοβήθητε τὸν </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>Θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>αὐτοῦ, καὶ προσκυνήσατε <b>τῷ ποιήσαντι τὸν οὐρανὸν καὶ </b></td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td><b>τὴν γῆν καὶ θάλασσαν</b> καὶ πηγὰς ὑδάτων. </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 8 Καὶ ἄλλος ἄγγελος δεύτερος ἠκολούθησεν λέγων </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td><b>Ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη</b>, ἣ <b>ἐκ τοῦ οἴνου</b> τοῦ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>θυμοῦ τῆς πορνείας<b>αὐτῆς πεπότικεν πάντα τὰ ἔθνη</b>. </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 9 Καὶ ἄλλος ἄγγελος τρίτος ἠκολούθησεν αὐτοῖς λέγων </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>ἐν φωνῇ μεγάλῃ Εἴ τις προσκυνεῖ τὸ θηρίον καὶ τὴν εἰκόνα </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>αὐτοῦ, καὶ λαμβάνει χάραγμα ἐπὶ τοῦ μετώπου αὐτοῦ ἢ ἐπὶ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>τὴν χεῖρα αὐτοῦ, 10 καὶ αὐτὸς <b>πίεται ἐκ τοῦ οἴνου</b> τοῦ </td>
+<!--allusion--><td></td>
+</tr>
+<tr>
+<!--x-ref--><td></td>
+<!--body--><td>θυμοῦ τοῦ Θεοῦ τοῦ <b>κεκερασμένου ἀκράτου ἐν τῷ </td>
 </b><!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>λέγοντες Ἀμήν, Ἁλληλουϊά.</td>
+<!--body--><td><b>ποτηρίῳ τῆς ὀργῆς αὐτοῦ</b>, καὶ βασανισθήσεται ἐν <b>πυρὶ καὶ </b></td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 5 καὶ φωνὴ ἀπὸ τοῦ θρόνου ἐξῆλθεν λέγουσα <b>Αἰνεῖτε</b> </td>
+<!--body--><td><b>θείῳ</b> ἐνώπιον ἀγγέλων ἁγίων καὶ ἐνώπιον τοῦ Ἀρνίου. 11 </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>τῷ Θεῷ ἡμῶν, <b>πάντες οἱ δοῦλοι</b>αὐτοῦ, <b>οἱ φοβούμενοι </td>
-</b><!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td><b>αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι</b>. 6 Καὶ ἤκουσα ὡς φωνὴν </td>
+<!--body--><td><b>καὶ ὁ καπνὸς</b> τοῦ βασανισμοῦ αὐτῶν <b>εἰς αἰῶνας</b> αἰώνων </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ὄχλου πολλοῦ καὶ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν </td>
+<!--body--><td><b>ἀναβαίνει</b>, καὶ οὐκ ἔχουσιν ἀνάπαυσιν <b>ἡμέρας καὶ νυκτός</b> </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>βροντῶν ἰσχυρῶν, λεγόντων <b>Ἁλληλουϊά</b>, ὅτι <b>ἐβασίλευσεν </b></td>
+<!--body--><td>οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ, καὶ εἴ τις </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>Κύριος ὁ Θεός</b> ἡμῶν ὁ <b>Παντοκράτωρ</b>. 7 <b>χαίρωμεν</b> καὶ </td>
+<!--body--><td>λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ. </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>ἀγαλλιῶμεν</b>, καὶ δώσομεν τὴν δόξαν αὐτῷ, ὅτι ἦλθεν ὁ </td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 12 Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>γάμος τοῦ Ἀρνίου, καὶ ἡ γυνὴ αὐτοῦ ἡτοίμασεν ἑαυτήν, 8 καὶ </td>
+<!--body--><td>ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ. </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ἐδόθη αὐτῇ ἵνα περιβάληται βύσσινον λαμπρὸν καθαρόν· τὸ </td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 13 Καὶ ἤκουσα φωνῆς ἐκ τοῦ οὐρανοῦ λεγούσης </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>γὰρ βύσσινον τὰ δικαιώματα τῶν ἁγίων ἐστίν.</td>
-<!--allusion--><td></td>
-</tr>
-
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 9 Καὶ λέγει μοι Γράψον Μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ </td>
+<!--body--><td>Γράψον Μακάριοι οἱ νεκροὶ οἱ ἐν Κυρίῳ ἀποθνῄσκοντες </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>γάμου τοῦ Ἀρνίου κεκλημένοι. καὶ λέγει μοι Οὗτοι οἱ λόγοι </td>
+<!--body--><td>ἀπάρτι. ναί, λέγει τὸ Πνεῦμα, ἵνα ἀναπαήσονται ἐκ τῶν </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ἀληθινοὶ τοῦ Θεοῦ εἰσιν. 10 καὶ ἔπεσα ἔμπροσθεν τῶν ποδῶν </td>
+<!--body--><td>κόπων αὐτῶν· τὰ γὰρ ἔργα αὐτῶν ἀκολουθεῖ μετ’ αὐτῶν.</td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>αὐτοῦ προσκυνῆσαι αὐτῷ. καὶ λέγει μοι Ὅρα μή· σύνδουλός </td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 14 Καὶ εἶδον, <b>καὶ ἰδοὺ</b> νεφέλη λευκή, καὶ <b>ἐπὶ</b> τὴν </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν </td>
+<!--body--><td><b>νεφέλην</b> καθήμενον <b>ὅμοιον υἱὸν ἀνθρώπου</b>, ἔχων ἐπὶ τῆς </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>Ἰησοῦ· τῷ Θεῷ προσκύνησον· ἡ γὰρ μαρτυρία Ἰησοῦ ἐστιν </td>
+<!--body--><td>κεφαλῆς αὐτοῦ στέφανον χρυσοῦν καὶ ἐν τῇ χειρὶ αὐτοῦ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>τὸ πνεῦμα τῆς προφητείας.</td>
+<!--body--><td>δρέπανον ὀξύ. 15 Καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ, </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 11 <b>Καὶ εἶδον τὸν οὐρανὸν ἠνεῳγμένον</b>, καὶ ἰδοὺ ἵππος </td>
+<!--body--><td>κράζων ἐν φωνῇ μεγάλῃ τῷ καθημένῳ ἐπὶ τῆς νεφέλης </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>λευκός, καὶ ὁ καθήμενος ἐπ’ αὐτὸν καλούμενος Πιστὸς καὶ </td>
+<!--body--><td><b>Πέμψον τὸ δρέπανόν</b> σου καὶ θέρισον, <b>ὅτι ἦλθεν ἡ ὥρα </b></td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>Ἀληθινός, καὶ <b>ἐν δικαιοσύνῃ κρίνει</b> καὶ πολεμεῖ. 12 <b>οἱ δὲ </b></td>
+    <!--body--><td><b>θερίσαι</b>, ὅτι ἐξηράνθη ὁ θερισμὸς τῆς γῆς. 16 καὶ ἔβαλεν ὁ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>ὀφθαλμοὶ αὐτοῦ</b> φλὸξ <b>πυρός</b>, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ </td>
+<!--body--><td>καθήμενος ἐπὶ τῆς νεφέλης τὸ δρέπανον αὐτοῦ ἐπὶ τὴν γῆν, </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>διαδήματα πολλά, ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ </td>
+<!--body--><td>καὶ ἐθερίσθη ἡ γῆ. </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>μὴ αὐτός, 13 καὶ περιβεβλημένος ἱμάτιον βεβαμμένον αἵματι, </td>
+<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 17 Καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ τοῦ ἐν τῷ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>καὶ κέκληται τὸ ὄνομα αὐτοῦ Ὁ Λόγος τοῦ Θεοῦ. 14 καὶ τὰ </td>
+<!--body--><td>οὐρανῷ, ἔχων καὶ αὐτὸς δρέπανον ὀξύ. 18 Καὶ ἄλλος </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>στρατεύματα τὰ ἐν τῷ οὐρανῷ ἠκολούθει αὐτῷ ἐφ’ ἵπποις </td>
+<!--body--><td>ἄγγελος ἐξῆλθεν ἐκ τοῦ θυσιαστηρίου, ὁ ἔχων ἐξουσίαν ἐπὶ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>λευκοῖς, ἐνδεδυμένοι βύσσινον λευκὸν καθαρόν. 15 καὶ <b>ἐκ </b></td>
+<!--body--><td>τοῦ πυρός, καὶ ἐφώνησεν φωνῇ μεγάλῃ τῷ ἔχοντι τὸ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>τοῦ στόματος</b> αὐτοῦ ἐκπορεύεται ῥομφαία ὀξεῖα, ἵνα ἐν </td>
+<!--body--><td>δρέπανον τὸ ὀξὺ λέγων <b>Πέμψον</b> σου τὸ <b>δρέπανον</b> τὸ ὀξὺ καὶ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>αὐτῇ <b>πατάξῃ τὰ ἔθνη</b>· καὶ αὐτὸς<b>ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ </b></td>
+<!--body--><td>τρύγησον τοὺς βότρυας τῆς ἀμπέλου τῆς γῆς, ὅτι ἤκμασαν αἱ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td><b>σιδηρᾷ</b>· καὶ αὐτὸς <b>πατεῖ τὴν ληνὸν</b> τοῦ οἴνου τοῦ θυμοῦ τῆς </td>
+<!--body--><td>σταφυλαὶ αὐτῆς. 19 καὶ ἔβαλεν ὁ ἄγγελος τὸ δρέπανον αὐτοῦ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ὀργῆς <b>τοῦ Θεοῦ τοῦ Παντοκράτορος</b>. 16 καὶ ἔχει ἐπὶ τὸ </td>
+<!--body--><td>εἰς τὴν γῆν, καὶ ἐτρύγησεν τὴν ἄμπελον τῆς γῆς καὶ ἔβαλεν </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον </td>
+<!--body--><td>εἰς τὴν ληνὸν τοῦ θυμοῦ τοῦ Θεοῦ τὸν μέγαν. 20 καὶ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>Βασιλεὺς βασιλέων καὶ κύριοςκυρίων.</td>
+<!--body--><td><b>ἐπατήθη ἡ ληνὸς</b>ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 17 Καὶ εἶδον ἕνα ἄγγελον ἑστῶτα ἐν τῷ ἡλίῳ, καὶ </td>
+<!--body--><td>τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων, ἀπὸ σταδίων χιλίων </td>
 <!--allusion--><td></td>
 </tr>
 <tr>
 <!--x-ref--><td></td>
-<!--body--><td>ἔκραξεν ἐν φωνῇ μεγάλῃ <b>λέγων πᾶσιν τοῖς ὀρνέοις τοῖς </b></td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td><b>πετομένοις</b> ἐν μεσουρανήματι <b>Δεῦτε συνάχθητε εἰς τὸ</b> </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>δεῖπνον τὸ μέγα τοῦ Θεοῦ, 18 ἵνα <b>φάγητε</b> σάρκας <b>βασιλέων</b> </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>καὶ σάρκας χιλιάρχων καὶ <b>σάρκας ἰσχυρῶν</b> καὶ σάρκας </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td><b>ἵππων</b> καὶ τῶν καθημένων ἐπ’ αὐτῶν, καὶ σάρκας πάντων </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>ἐλευθέρων τε καὶ δούλων καὶ μικρῶν καὶ μεγάλων. 19 Καὶ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>εἶδον τὸ θηρίον καὶ <b>τοὺς βασιλεῖς τῆς γῆς</b> καὶ τὰ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>στρατεύματα αὐτῶν συνηγμένα ποιῆσαι τὸν πόλεμον μετὰ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>τοῦ καθημένου ἐπὶ τοῦ ἵππου καὶ μετὰ τοῦ στρατεύματος </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>αὐτοῦ. 20 καὶ ἐπιάσθη τὸ θηρίον καὶ μετ’ αὐτοῦ ὁ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>ψευδοπροφήτης ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ, ἐν οἷς </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>προσκυνοῦντας τῇ εἰκόνι αὐτοῦ· ζῶντες ἐβλήθησαν οἱ δύο </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>εἰς τὴν λίμνην τοῦ πυρὸς τῆς <b>καιομένης ἐν θείῳ</b>. 21καὶ οἱ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>λοιποὶ ἀπεκτάνθησαν ἐν τῇ ῥομφαίᾳ τοῦ καθημένου ἐπὶ τοῦ </td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td>ἵππου τῇ ἐξελθούσῃ ἐκ τοῦ στόματος αὐτοῦ, καὶ <b>πάντα τὰ </b></td>
-<!--allusion--><td></td>
-</tr>
-<tr>
-<!--x-ref--><td></td>
-<!--body--><td><b>ὄρνεα ἐχορτάσθησαν ἐκ τῶν σαρκῶν</b> αὐτῶν.</td>
+<!--body--><td>ἑξακοσίων.</td>
 <!--allusion--><td></td>
 </tr>
 
@@ -468,21 +483,6 @@
         </div>
         
         <iframe src="http://encodingrevelation.github.io/revelation/revelation/chapter/nestle.html" style="position:fixed;top:25px;right:5px;width:300px;height:375px;overflow:scroll" frameBorder="0" name="allusion_target" </iframe>
-        
-    </body>
-</html>
-
-              
-                
-                
-                
-                
-                
-                
-                
-                
-                
-        
         
     </body>
 </html>

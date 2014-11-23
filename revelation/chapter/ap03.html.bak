@@ -25,43 +25,43 @@
         a.body-david:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-wisdom:link {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         a.body-wisdom:visited {color:#e60000;text-decoration:none;<!--pointer-events:none;cursor:default-->}
-        a.body-apocrypha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-apocrypha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:link {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
-        a.body-pseuedepigrapha:visited {color:#a10000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-apocrypha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-apocrypha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:link {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
+        a.body-pseuedepigrapha:visited {color:#000000;text-decoration:none;pointer-events:none;cursor:default}
         #quotation{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #allusion{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #theme{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->}
         #combination{<!--color:#e60000-->;text-decoration:none;<!--pointer-events:none;cursor:default-->} 
                   
-        a.ref:link {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref:visited {color:#a10000;text-decoration:none;font-size:7px}
-        a.ref-named:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-named:visited {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-moses:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-moses:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}	
-        a.ref-former:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-former:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-isaiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-jeremiah:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-ezekiel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-daniel:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-minor:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-david:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:link {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-wisdom:visited {color:#a10000;text-decoration:none;font-size:7px;<!--display:none-->}
-        a.ref-apocrypha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-apocrypha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:link {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-pseudepigrapha:visited {color:#a10000;text-decoration:none;font-size:7px;display:none}
-        a.ref-combination:link {color:#a10000;text-decoration:none;<!--display:none-->}
-        a.ref-combination:visited {color:#a10000;text-decoration:none;!--display:none-->}
+        a.ref:link {color:#000000;text-decoration:none;font-size:7px}
+        a.ref:visited {color:#000000;text-decoration:none;font-size:7px}
+        a.ref-named:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-named:visited {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-moses:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-moses:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}	
+        a.ref-former:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-former:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-isaiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-jeremiah:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-ezekiel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-daniel:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-minor:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-david:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:link {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-wisdom:visited {color:#000000;text-decoration:none;font-size:7px;<!--display:none-->}
+        a.ref-apocrypha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-apocrypha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:link {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-pseudepigrapha:visited {color:#000000;text-decoration:none;font-size:7px;display:none}
+        a.ref-combination:link {color:#000000;text-decoration:none;<!--display:none-->}
+        a.ref-combination:visited {color:#000000;text-decoration:none;!--display:none-->}
         a.xref:link {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;<!--display:none-->}
         a.xref:visited {color:#0000e6;text-decoration:none;font-size:7px;text-align:right;!--display:none-->}
         
@@ -79,9 +79,9 @@
                       <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Internal links</option>
                       <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Parallel texts</option></select>--></th>
                     <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html" selected="selected">Revelation 1</option><!--chapter changes-->
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html">Revelation 1</option><!--chapter changes-->
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap02.html">Revelation 2</option>
-                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap03.html">Revelation 3</option>
+                        <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap03.html"  selected="selected">Revelation 3</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap04.html">Revelation 4</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap05.html">Revelation 5</option>
                         <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap06.html">Revelation 6</option>
@@ -112,276 +112,304 @@
                                 <!-- <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">Combination</option>-->
                     </th>
                 </tr>
-            
                 
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 1:1 Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ </td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 3:1 Καὶ τῷ ἀγγέλῳ τῆς ἐν Σάρδεσιν ἐκκλησίας γράψον· </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>Θεός, δεῖξαι τοῖς δούλοις αὐτοῦ <b>ἃ δεῖ γενέσθαι</b> ἐν τάχει, καὶ </td>
+                    <!--body--><td>Τάδε λέγει ὁ ἔχων τὰ ἑπτὰ Πνεύματα τοῦ Θεοῦ καὶ τοὺς ἑπτὰ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ, τῷ δούλῳ </td>
+                    <!--body--><td>ἀστέρας </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>αὐτοῦ Ἰωάνῃ, 2 ὃς ἐμαρτύρησεν τὸν λόγον τοῦ Θεοῦ καὶ τὴν </td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp Οἶδά σου τὰ ἔργα, ὅτι ὄνομα ἔχεις ὅτι ζῇς, καὶ νεκρὸς εἶ. </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>μαρτυρίαν Ἰησοῦ Χριστοῦ, ὅσα εἶδεν. 3 Μακάριος ὁ </td>
+                    <!--body--><td>2 γίνου γρηγορῶν, καὶ στήρισον τὰ λοιπὰ ἃ ἔμελλον </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας </td>
+                    <!--body--><td>ἀποθανεῖν· οὐ γὰρ εὕρηκά σου ἔργα πεπληρωμένα ἐνώπιον </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα· ὁ γὰρ καιρὸς ἐγγύς.</td>
+                    <!--body--><td>τοῦ Θεοῦ μου· 3 μνημόνευε οὖν πῶς εἴληφας καὶ ἤκουσας, </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 4 Ἰωάνης ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ Ἀσίᾳ· χάρις </td>
+                    <!--body--><td>καὶ τήρει καὶ μετανόησον. ἐὰν οὖν μὴ γρηγορήσῃς, ἥξω ὡς </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ὑμῖν καὶ εἰρήνη ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, καὶ ἀπὸ </td>
+                    <!--body--><td>κλέπτης, καὶ οὐ μὴ γνῷς ποίαν ὥραν ἥξω ἐπὶ σέ. 4 ἀλλὰ ἔχεις </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>τῶν ἑπτὰ Πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ, 5 καὶ ἀπὸ </td>
+                    <!--body--><td>ὀλίγα ὀνόματα ἐν Σάρδεσιν ἃ οὐκ ἐμόλυναν τὰ ἱμάτια αὐτῶν, </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>Ἰησοῦ Χριστοῦ, <b>ὁ μάρτυς ὁ πιστό</b>ς, ὁ <b>πρωτότοκος</b> τῶν </td>
+                    <!--body--><td>καὶ περιπατήσουσιν μετ’ ἐμοῦ ἐν λευκοῖς, ὅτι ἄξιοί εἰσιν. 5 Ὁ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>νεκρῶν καὶ ὁ <b>ἄρχων τῶν βασιλέων τῆς γῆς</b>. </td>
+                    <!--body--><td>νικῶν οὕτως περιβαλεῖται ἐν ἱματίοις λευκοῖς, καὶ οὐ μὴ </td>
+                    <b><!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td><b>ἐξαλείψω</b>   τὸ ὄνομα αὐτοῦ <b>ἐκ τῆς βίβλου τῆς ζωῆς</b>, καὶ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp Τῷ ἀγαπῶντι ἡμᾶς καὶ <b>λύσαντι</b> ἡμᾶς ἐκ τῶν ἁμαρτιῶν </td>
+                    <!--body--><td>ὁμολογήσω τὸ ὄνομα αὐτοῦ ἐνώπιον τοῦ Πατρός μου καὶ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἡμῶν ἐν τῷ αἵματι αὐτοῦ, 6 καὶ ἐποίησεν ἡμᾶς <b>βασιλείαν, </td>
+                    <!--body--><td>ἐνώπιον τῶν ἀγγέλων αὐτοῦ. 6 Ὁ ἔχων οὖς ἀκουσάτω τί τὸ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἱερεῖς τῷ Θεῷ</b> καὶ Πατρὶ αὐτοῦ, αὐτῷ ἡ δόξα καὶ τὸ κράτος </td>
+                    <!--body--><td>Πνεῦμα λέγει ταῖς ἐκκλησίαις.</td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν. </td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 7 Καὶ τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφίᾳ ἐκκλησίας γράψον· </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 7 <b>Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν</b>, καὶ <b>ὄψεται</b> αὐτὸν </td>
+                    <!--body--><td>Τάδε λέγει ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων <b>τὴν κλεῖν Δαυείδ, ὁ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν <b>ἐξεκέντησαν, καὶ κόψονται </td>
+                    <!--body--><td>ἀνοίγων καὶ οὐδεὶς κλείσει, καὶ κλείων καὶ οὐδεὶς ἀνοίγει</b></td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἐπ’ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς</b>. ναί, ἀμήν.</td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 8 Οἶδά σου τὰ ἔργα· ἰδοὺ δέδωκα ἐνώπιόν σου θύραν </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 8 <b>Ἐγώ εἰμι</b> τὸ Ἄλφα καὶ τὸ Ὦ, λέγει <b>Κύριος ὁ Θεός</b>, ὁ </td>
+                    <!--body--><td>ἠνεῳγμένην, ἣν οὐδεὶς δύναται κλεῖσαι αὐτήν· ὅτι μικρὰν </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, <b>ὁ Παντοκράτωρ</b>.</td>
+                    <!--body--><td>ἔχεις δύναμιν, καὶ ἐτήρησάς μου τὸν λόγον καὶ οὐκ ἠρνήσω </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 9 Ἐγὼ Ἰωάνης, ὁ ἀδελφὸς ὑμῶν καὶ συνκοινωνὸς ἐν τῇ </td>
+                    <!--body--><td>τὸ ὄνομά μου. 9 ἰδοὺ διδῶ ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ, ἐγενόμην ἐν τῇ </td>
+                    <!--body--><td>τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι, καὶ οὐκ εἰσὶν ἀλλὰ </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>νήσῳ τῇ καλουμένῃ Πάτμῳ διὰ τὸν λόγον τοῦ Θεοῦ καὶ τὴν </td>
+                    <!--body--><td>ψεύδονται· ἰδοὺ ποιήσω αὐτοὺς ἵνα <b>ἥξουσιν καὶ</b></td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>μαρτυρίαν Ἰησοῦ. 10 ἐγενόμην ἐν Πνεύματι ἐν τῇ κυριακῇ </td>
+                    <!--body--><td><b>προσκυνήσουσιν ἐνώπιον τῶν ποδῶν σου</b>, καὶ γνῶσιν ὅτι </td>
+                    <b><!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td><b>ἐγὼ ἠγάπησά σε</b>. 10 ὅτι ἐτήρησας τὸν λόγον τῆς ὑπομονῆς </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
                     <!--x-ref--><td></td>
-                    <!--body--><td>ἡμέρᾳ, καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος </td>
+                    <!--body--><td>μου, κἀγώ σε τηρήσω ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς </td>
                     <!--allusion--><td></td>
                 </tr>
                 <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>μελλούσης ἔρχεσθαι ἐπὶ τῆς οἰκουμένης ὅλης, πειράσαι τοὺς </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>κατοικοῦντας ἐπὶ τῆς γῆς. 11 ἔρχομαι ταχύ· κράτει ὃ ἔχεις, </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἵνα μηδεὶς λάβῃ τὸν στέφανόν σου. 12 Ὁ νικῶν, ποιήσω </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>αὐτὸν στῦλον ἐν τῷ ναῷ τοῦ Θεοῦ μου, καὶ ἔξω οὐ μὴ ἐξέλθῃ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἔτι, καὶ γράψω ἐπ’ αὐτὸν τὸ ὄνομα τοῦ Θεοῦ μου καὶ <b>τὸ</b></td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td><b>ὄνομα τῆς πόλεως</b>   τοῦ Θεοῦ μου, τῆς καινῆς Ἱερουσαλὴμ ἡ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ Θεοῦ μου, καὶ <b>τὸ </b></td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td><b>ὄνομά</b>   μου <b>τὸ καινόν</b> . 13 Ὁ ἔχων οὖς ἀκουσάτω τί τὸ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>Πνεῦμα λέγει ταῖς ἐκκλησίαις.</td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 14 Καὶ τῷ ἀγγέλῳ τῆς ἐν Λαοδικίᾳ ἐκκλησίας γράψον· </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>Τάδε λέγει ὁ Ἀμήν, <b>ὁ μάρτυς ὁ πιστὸς</b>   καὶ ἀληθινός, <b>ἡ ἀρχὴ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>τῆς κτίσεως</b>   τοῦ Θεοῦ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 15 Οἶδά σου τὰ ἔργα, ὅτι οὔτε ψυχρὸς εἶ οὔτε ζεστός. </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ὄφελον ψυχρὸς ἦς ἢ ζεστός. 16οὕτως, ὅτι χλιαρὸς εἶ, καὶ οὔτε </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου. </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>17 ὅτι λέγεις ὅτι Πλούσιός εἰμι καὶ <b>πεπλούτηκα</b>   καὶ οὐδὲν </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>χρείαν ἔχω, καὶ οὐκ οἶδας ὅτι σὺ εἶ ὁ ταλαίπωρος καὶ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός, 18 συμβουλεύω </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>σοι ἀγοράσαι παρ’ ἐμοῦ χρυσίον πεπυρωμένον ἐκ πυρὸς ἵνα </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ φανερωθῇ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἡ αἰσχύνη τῆς γυμνότητός σου, καὶ κολλούριον ἐγχρῖσαι τοὺς </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ὀφθαλμούς σου ἵνα βλέπῃς. 19 ἐγὼ <b>ὅσους ἐὰν φιλῶ ἐλέγχω</b>   </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>καὶ παιδεύω· ζήλευε οὖν καὶ μετανόησον. 20 Ἰδοὺ ἕστηκα </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἐπὶ τὴν θύραν καὶ κρούω· ἐάν τις ἀκούσῃ τῆς φωνῆς μου καὶ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἀνοίξῃ τὴν θύραν, εἰσελεύσομαι πρὸς αὐτὸν καὶ δειπνήσω </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>μετ’ αὐτοῦ καὶ αὐτὸς μετ’ ἐμοῦ. 21 Ὁ νικῶν δώσω αὐτῷ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>καθίσαι μετ’ ἐμοῦ ἐν τῷ θρόνῳ μου, ὡς κἀγὼ ἐνίκησα καὶ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἐκάθισα μετὰ τοῦ Πατρός μου ἐν τῷ θρόνῳ αὐτοῦ. 22 Ὁ </td>
+                    <!--allusion--><td></td>
+                </tr>
+                <tr>
+                    <!--x-ref--><td></td>
+                    <!--body--><td>ἔχων οὖς ἀκουσάτω τί τὸ Πνεῦμα λέγει ταῖς ἐκκλησίαις.</td>
+                    <!--allusion--><td></td>
+                </tr>
+            
                     <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 11 λεγούσης Ὃ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ταῖς ἑπτὰ ἐκκλησίαις, εἰς Ἔφεσον καὶ εἰς Σμύρναν καὶ εἰς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>Πέργαμον καὶ εἰς Θυάτειρα καὶ εἰς Σάρδεις καὶ εἰς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>Φιλαδελφίαν καὶ εἰς Λαοδικίαν. </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 12 Καὶ ἐπέστρεψα βλέπειν τὴν φωνὴν ἥτις ἐλάλει μετ’ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ἐμοῦ· καὶ ἐπιστρέψας εἶδον ἑπτὰ λυχνίας χρυσᾶς, 13 καὶ ἐν </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>μέσῳ τῶν λυχνιῶν <b>ὅμοιον υἱὸν ἀνθρώπου, ἐνδεδυμένον  </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ποδήρη</b> καὶ<b>περιεζωσμένον</b> πρὸς τοῖς μαστοῖς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ζώνην <b>χρυσᾶν</b>· 14 ἡ δὲ <b>κεφαλὴ αὐτοῦ</b> καὶ <b>αἱ τρίχες</b></td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td><b>λευκαὶ ὡς ἔριον</b> λευκόν "ὡς χιών, καὶ οἱ ὀφθαλμοὶ</b> αὐτοῦ ὡς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>φλὸξ <b>πυρός,</b> 15 <b>καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ</b></td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ὡς ἐν καμίνῳ πεπυρωμένης, <b>καὶ ἡ φωνὴ αὐτοῦ ὡς φωνὴ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ὑδάτων πολλῶν</b>, 16 καὶ ἔχων ἐν τῇ δεξιᾷ χειρὶ αὐτοῦ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ἀστέρας ἑπτά, καὶ ἐκ τοῦ στόματος αὐτοῦ ῥομφαία δίστομος </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ὀξεῖα ἐκπορευομένη, καὶ ἡ ὄψις αὐτοῦ ὡς <b>ὁ ἥλιος</b> φαίνει ἐν </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>τῇ <b>δυνάμει αὐτοῦ</b>. </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>&nbsp&nbsp&nbsp&nbsp&nbsp 17 Καὶ ὅτε εἶδον αὐτόν, ἔπεσα πρὸς τοὺς πόδας αὐτοῦ ὡς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>νεκρός· καὶ ἔθηκεν τὴν δεξιὰν αὐτοῦ ἐπ’ ἐμὲ λέγων· <b>Μὴ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>φοβοῦ· ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος</b> 18 καὶ ὁ <b>Ζῶν</b>, καὶ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>ἐγενόμην νεκρὸς καὶ ἰδοὺ ζῶν εἰμι εἰς τοὺς αἰῶνας τῶν </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>αἰώνων, καὶ ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>Ἅιδου. 19 γράψον οὖν ἃ εἶδες καὶ ἃ εἰσὶν καὶ <b>ἃ μέλλει </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>γενέσθαι μετὰ ταῦτα</b>. 20 τὸ <b>μυστήριον</b> τῶν ἑπτὰ ἀστέρων </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου, καὶ τὰς ἑπτὰ λυχνίας τὰς </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>χρυσᾶς· οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσίν, </td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
-                        <!--x-ref--><td></td>
-                        <!--body--><td>καὶ αἱ λυχνίαι αἱ ἑπτὰ ἑπτὰ ἐκκλησίαι εἰσίν.</td>
-                        <!--allusion--><td></td>
-                    </tr>
-                    <tr>
+                        <!--X-ref  changes-->
                         <th style="width:75px;background-color:#f8f8f8;text-align:right">
                             <!--  <select style="font-size:8px;color:e60000" name= class="styled" onChange="document.location = this.value" value="GO">
                       <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Internal links</option>
                       <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap17.html">Parallel texts</option></select>--></th>
+                        
+                        <!--chapter changes-->
                         <th style="width:275px;background-color:#f8f8f8;text-align:center"><select style="font-size:8px" name= class="styled" onChange="document.location = this.value" value="GO">
-                            <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html" selected="selected">Revelation 1</option><!--chapter changes-->
+                            <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html" selected="selected">Select Chapter</option>
+                            <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap01.html">Revelation 1</option>
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap02.html">Revelation 2</option>
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap03.html">Revelation 3</option>
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap04.html">Revelation 4</option>
@@ -405,6 +433,8 @@
                             <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap22.html">Revelation 22</option>
                         </select>
                         </th>
+                        
+                        <!--References changes-->
                         <th style="width:100px;background-color:#f8f8f8">
                             <!-- <select style="font-size:8px;color:e60000" name= class="styled" onChange="document.location = this.value" value="GO">
                                 <option value="http://encodingrevelation.github.io/revelation/revelation/chapter/ap18.html">All References</option>
@@ -415,9 +445,9 @@
                         </th>
                     </tr>
             </table>
-            
         </div>
         
         <iframe src="http://encodingrevelation.github.io/revelation/revelation/chapter/nestle.html" style="position:fixed;top:25px;right:5px;width:300px;height:375px;overflow:scroll" frameBorder="0" name="allusion_target" </iframe>
         
     </body>
+</html>
